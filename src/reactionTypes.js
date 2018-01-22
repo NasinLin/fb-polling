@@ -1,0 +1,1 @@
+export default [ 'like', 'love', 'haha', 'wow', 'sad', 'angry'];
